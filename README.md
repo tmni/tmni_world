@@ -6,7 +6,7 @@
 </code></pre>
 </li>
 <li>
-<p>Once you have a copy of the project on your machine, do the following:</p>
+<p>CHANGE ing something kasdjlsak Once you have a copy of the project on your machine, do the following:</p>
 
 <ul>
 <li><p>change the name of the project directory to <code>&lt;your_github_id&gt;_world</code> (without the <code>&lt;...&gt;</code>, and where your_github_id is your actual github id) and then switch into that directory. (If you don't have an account, go get one right now...)</p></li>
